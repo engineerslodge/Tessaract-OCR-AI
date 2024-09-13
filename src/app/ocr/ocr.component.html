@@ -1,0 +1,8 @@
+<div>
+    <h1>Tesseract.js OCR Example</h1>
+    <input type="file" (change)="onFileChange($event)" accept="image/*">
+    <button (click)="processImage()">Process Image</button>
+    <p *ngIf="status">{{ status }}</p>
+    <p *ngIf="result">{{ result }}</p>
+  </div>
+  
