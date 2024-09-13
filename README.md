@@ -55,16 +55,16 @@ Ghana and Nigeria Currency and Local Currency:
 - **PayPal**: Use PayPal for convenient and secure transactions.
 - **Bank Transfer**: For large transactions or institutional payments, bank transfers are available.
 
-Please visit our [[Payment Portal](#) ](https://flutterwave.com/pay/7kkexmrpv8jj)to complete your payment.
+Please visit our Payment Portal(#) (https://flutterwave.com/pay/7kkexmrpv8jj)to complete your payment.
 
  **USD Payment of 320USD**
 ### Confirmation and Receive Your Full SourceCode via Email
 Payment Instruction:
-account number:	8398009826
-bank name:	Community Federal Savings Bank
-ach routing :	026073150
-bank address:	89-16 Jamaica Ave, Woodhaven, NY 11421, USA
-account type:	checking
+- account number:	8398009826
+- bank name:	Community Federal Savings Bank
+- ach routing :	026073150
+- bank address:	89-16 Jamaica Ave, Woodhaven, NY 11421, USA
+- account type:	checking
 
 1. **Complete the Payment**: Use the payment methods listed above to complete your transaction.
 2. **Email Confirmation**: After successful payment, write to us at support@engineerslodge.com.ng, you will receive an email with your Activated OCR Program and further instructions. Ensure you check your spam/junk folder if you do not receive it in your inbox.
