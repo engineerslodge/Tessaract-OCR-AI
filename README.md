@@ -52,12 +52,11 @@ To activate premium features or access advanced capabilities, you need to make a
 Ghana and Nigeria Currency and Local Currency:
 
 - **Credit/Debit Card**: Pay securely using your credit or debit card via our payment gateway.
-- **PayPal**: Use PayPal for convenient and secure transactions.
 - **Bank Transfer**: For large transactions or institutional payments, bank transfers are available.
 
 Please visit our Payment Portal(#) (https://flutterwave.com/pay/7kkexmrpv8jj)to complete your payment.
-
- **USD Payment of 320USD**
+   
+## USD Payment of 320USD**
 ### Confirmation and Receive Your Full SourceCode via Email
 Payment Instruction:
 - account number:	8398009826
